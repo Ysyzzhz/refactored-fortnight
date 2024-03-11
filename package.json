@@ -1,0 +1,23 @@
+{
+  "name": "refactored-fortnight-cli-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ysyzzhz/refactored-fortnight.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ysyzzhz/refactored-fortnight/issues"
+  },
+  "homepage": "https://github.com/Ysyzzhz/refactored-fortnight#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "lodash": "^4.17.21"
+  }
+}
